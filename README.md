@@ -1,1 +1,1 @@
-# SQL-Demo
+# SQL- Practice
